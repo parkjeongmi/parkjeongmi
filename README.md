@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-EF5C55?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AdobeXD-FF61f6?style=flat-square&logo=AdobeXD&logoColor=Black"/></a>
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=Black"/></a>
+<img src="https://img.shields.io/badge/AdobeXD-FF61f6?style=flat-square&logo=Adobe XD&logoColor=Black"/></a>
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=Black"/></a>
