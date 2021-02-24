@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-EF5C55?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe XD-FF61f6?style=flat-square&logo=Adobe XD&logoColor=Black"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=C&logoColor=Black"/></a>
