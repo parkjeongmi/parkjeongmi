@@ -1,10 +1,10 @@
 ### _Hi there_ 👋
 
-Here is a ✨ _Algorithm_ ✨ repository 
+This is a ✨ _Algorithm_ ✨ repository 
 
 - 🎓 My major is department of **Industrial & Information Systems Engineering**
-- 🌱 I’m currently learning **UX and Development**
-- ⚡ Fun fact: ... I use this repository only for **Algorithm Study**
+- ✏️ I’m currently learning **UX and Development**
+- 💻 I use this repository only for **Algorithm Study**
 
 ### My Tool 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
