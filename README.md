@@ -14,3 +14,7 @@ This is a ✨ _Algorithm_ ✨ repository
 <img src="https://img.shields.io/badge/Adobe XD-FF61f6?style=flat-square&logo=(Adobe XD)&logoColor=Black"/></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=Black"/></a>
+
+### Please 🙏🏻
+_1 coding_ per day 
+And _lay a lawn_ in my repository .. 😿
