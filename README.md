@@ -1,4 +1,4 @@
-### _Hi there_ 👋
+## _Hi there_ 👋
 
 This is a ✨ _Algorithm_ ✨ repository 
 
