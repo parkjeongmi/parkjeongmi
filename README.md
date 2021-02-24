@@ -2,6 +2,7 @@
 
 This is a ✨ _Algorithm_ ✨ repository 
 
+### Jeong MI 🐶
 - 🎓 My major is department of **Industrial & Information Systems Engineering**
 - ✏️ I’m currently learning **UX and Development**
 - 💻 I use this repository only for **Algorithm Study**
@@ -17,4 +18,4 @@ This is a ✨ _Algorithm_ ✨ repository
 
 ### Please 🙏🏻
 - _1 coding_ per day 
-- And _lay a lawn_ in my repository .. 😿
+- And _lay a lawn_ on my repository .. 😿
