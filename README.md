@@ -1,11 +1,11 @@
 ## _Hi there_ 👋
 
-This is a ✨ _Algorithm_ ✨ repository 
+This is a ✨ _Algorithm_ ✨ repository (made by **코린이**)
 
 ### Jeong MI 🐶
 - 🎓 My major is department of **Industrial & Information Systems Engineering**
 - ✏️ I’m currently learning **UX and Development**
-- 💻 I use this repository only for **Algorithm Study**
+- 💻 I use this repository for **Algorithm Study**
 
 ### My Tool 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -18,4 +18,4 @@ This is a ✨ _Algorithm_ ✨ repository
 
 ### Please 🙏🏻
 - _1 coding_ per day 
-- And _lay a lawn_ on my repository .. 😿
+- And _lay a lawn_ on my repository .. 🌱
