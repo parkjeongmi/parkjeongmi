@@ -1,6 +1,6 @@
 ## _Hi there_ 👋
 
-This is a ✨ _Algorithm_ ✨ repository (made by **코린이**)
+This is a ✨ _코린이_ ✨ repository
 
 ### Jeong MI 🐶
 - 🎓 My major is department of **Industrial & Information Systems Engineering**
