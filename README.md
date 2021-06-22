@@ -8,5 +8,5 @@ This is a ✨ Co-Lin-I ✨  repository
 - 🌱 Co-Lin-I is filling the grass
 
 
-![Jeongmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jeongmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmi&show_icons=true&theme=radical)
 
